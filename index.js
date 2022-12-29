@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import express from 'express';
 import cors from 'cors';
-import blogRoutes from './Routes/Routes.js'
+import blogRoutes from './Routes/routes.js'
 import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
 dotenv.config();
